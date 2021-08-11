@@ -1,0 +1,35 @@
+.testimonial{
+    background-color: #F3F5FF;
+}
+.testimonial h2{
+    font-size: 45px;
+    font-weight: 900;
+    padding: 119px 0 15px;
+}
+.testimonial p{
+    text-align: center;
+    color: #5B6674;
+    padding-bottom: 20px;
+}
+.carousel-item-padding-40-px{
+    margin: 15px 30px;
+    padding: 25px;
+    background: rgb(255, 255, 255);
+}
+
+
+.carousel-item-padding-40-px  img{
+    border-radius: 50%;
+    margin: 13px auto 0;
+}
+.carousel-item-padding-40-px  h5{
+    display: inline-block;
+    color: #3b3663;
+    font-weight: 900;
+    font-size: 22px;
+    padding: 15px 0 0;
+}
+.carousel-item-padding-40-px p{
+    color: #5B6674;
+    text-align: left;
+}

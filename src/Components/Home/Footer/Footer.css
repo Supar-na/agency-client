@@ -1,0 +1,32 @@
+footer{
+    background: #F3F5FF;
+    padding: 75px 0 50px;
+}
+footer img{
+    margin: 15px 0 20px;
+}
+footer  a{
+    text-decoration: none;
+    color: #3b3663;
+    font-size: 17px;
+    transition: 0.4s ease-in-out;
+    position: relative;
+}
+footer  a:hover{
+    color: #685ae8;
+    transition: 0.4s ease-in-out;
+}
+
+footer h5{
+    font-weight: 900;
+    font-size: 22px;
+}
+.subscribe{
+    background: #fff;
+    box-shadow: 0 0 4px 4px rgb(201 208 213 / 25%);
+    padding: 10px 70px 10px 20px;
+    margin: 30px 49px 10px 0;
+    text-align: center;
+    line-height: 28px;
+    color: grey;
+}

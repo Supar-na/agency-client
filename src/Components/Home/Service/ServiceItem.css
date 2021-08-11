@@ -1,0 +1,15 @@
+.service-item{
+    margin-top: 55px;
+    padding: 30px;
+    background: #fff;
+    text-align: center;
+    box-shadow: 0 0 22px 8px #f4f4f4;
+}
+.service-item img{
+    display: block;
+    margin: 13px auto 10px;
+}
+.service-item h5{
+    font-size: 22px;
+    font-weight: 700;
+    color: #3b3663;}

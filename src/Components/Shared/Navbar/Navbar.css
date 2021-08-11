@@ -1,0 +1,48 @@
+.nav{
+   
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #685ae8 !important;
+    font-weight: 600;
+}
+
+.navbar-brand img{
+    margin:10px 79px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #3b3663!important;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 25px 10px;
+    margin-top: 0px;
+    font-family: 'Rubik', sans-serif;
+    margin-right: 25px;
+    transition: 0.3s ease-in-out;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #685ae8 !important;
+}
+.navbar-nav {
+    margin: 0px 270px 0 0px;
+}
+.nav-item button{
+    border: none;
+    margin-left: 238px;
+    margin-right: -177px;
+    border-radius:4px;
+    transition: 0.4s ease-in-out;
+    font-weight: 500;
+}
+.nav-item button a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav-item button a:hover{
+    color: #685ae8;
+}
+.nav-item button:hover{
+    background:transparent;
+    border: 1px solid #685ae8;
+    color: #685ae8;
+}

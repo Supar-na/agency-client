@@ -1,0 +1,44 @@
+.banner{
+    overflow: hidden;
+}
+
+.banner h1{
+    font-size: 58px;
+    font-weight: 800;
+    padding-top: 50px;
+    padding-left: 160px;
+   
+}
+.banner p{
+    color: #5b6674;
+    font-size: 20px;
+    padding-left: 160px;
+    padding: 25px 0 20px 160px;
+}
+.banner .btn-brand{
+    border: none;
+    border-radius: 4px;
+    margin: 10px 0 10px 160px;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 500;
+    transition: 0.4s ease-in-out;
+}
+.banner .btn-brand:hover{
+    background: transparent;
+    border: 1px solid #685ae8;
+    color: #685ae8;
+}
+.btn-learn{
+   background: transparent;
+   border: none;
+   color:#685ae8;
+   text-transform: uppercase;
+   font-size: 15px;
+   font-weight: 500;
+   margin: 0 31px;
+   transition: 0.4s ease-in-out;
+}
+.btn-learn:hover{
+    color: #8c80ff;
+}
