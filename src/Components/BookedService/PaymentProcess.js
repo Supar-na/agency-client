@@ -4,11 +4,11 @@ import { loadStripe } from '@stripe/stripe-js';
 import PaymentCard from './PaymentCard';
 import { CardElement } from '@stripe/react-stripe-js';
 
-const stripePromise = loadStripe('sk_test_51JGOI2CTv5MtVdxXIFUAVLO77zjAr1lCKhx7pOBc7U0eVgzYssKiaF3BI50O53Oieht53PLZZeI6iGUNrP6YwfBa006egCZrzM');
+
 
 const PaymentProcess = () => {
 
-    
+    const stripePromise = loadStripe('sk_test_51JGOI2CTv5MtVdxXIFUAVLO77zjAr1lCKhx7pOBc7U0eVgzYssKiaF3BI50O53Oieht53PLZZeI6iGUNrP6YwfBa006egCZrzM');
 
     return (
         <div>

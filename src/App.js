@@ -27,9 +27,9 @@ function App() {
           <Route path="/service">
             <Service></Service>
           </Route>
-          <Route path="/dashboard">
+          {/* <Route path="/dashboard">
             <Dashboard></Dashboard>
-          </Route>
+          </Route> */}
           <Route path="/login">
             <LogIn></LogIn>
           </Route>

@@ -10,7 +10,7 @@ const Dashboard = () => {
                 <Sidebar></Sidebar>
             </div>
             <div className="col-md-9">
-               <BookedService></BookedService>
+               {/* <BookedService></BookedService> */}
             </div>
         </div>
     );

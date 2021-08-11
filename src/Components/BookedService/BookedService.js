@@ -1,6 +1,6 @@
 import React from 'react';
 import { useForm } from "react-hook-form";
-import PaymentProcess from './PaymentProcess';
+// import PaymentProcess from './PaymentProcess';
 
 
 const BookedService = () => {
@@ -37,8 +37,8 @@ const BookedService = () => {
                 <br />
                 <input type="submit" />
             </form>
-
-          <PaymentProcess></PaymentProcess>
+{/* 
+          <PaymentProcess></PaymentProcess> */}
         </div>
     );
 };
